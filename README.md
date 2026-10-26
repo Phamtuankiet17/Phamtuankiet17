@@ -1,4 +1,4 @@
-# 👋 Hi there, Pham Tuan Kiet
+# 👋 Hi there, Tuan Kiet ( Cristian Pham )
 
 Computer Science student at **UTC** 🟠🔵🟢
 
