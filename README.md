@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m thelastsigma!
+# 👋 Hi there, Pham Tuan Kiet
 
 Computer Science student at **UTC** 🟠🔵🟢
 
