@@ -1,6 +1,6 @@
 # 👋 Hi there, Tuan Kiet ( Cristian Pham )
 
-Computer Science student at **UTC** 🟠🔵🟢
+Data Engineer / Data Analystic student at **UTC** 🟠🔵🟢
 
 ### 🌐 Socials
 
