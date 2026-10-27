@@ -1,14 +1,16 @@
 # 👋 Hi there, Tuan Kiet ( Cristian Pham )
 
-Data Engineer / Data Analystic student at **UTC** 🟠🔵🟢
+Data Engineer / Data Analytics student at **UTC** 🟠🔵🟢
 
 ### 🌐 Socials
 
 <p>
-<a href="https://facebook.com/yourname"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" alt="Facebook" /></a>
-<a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
-<a href="https://t.me/yourname"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="28" alt="Telegram" /></a>
+<a href="https://facebook.com/tuan.kiet.636566"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" alt="Facebook" /></a>
+<a href="mailto:ptkiet1708@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
+<!-- Bỏ dấu chú thích khi bạn đã có link thật:
+<a href="https://linkedin.com/in/LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+<a href="https://t.me/TELEGRAM_CUA_BAN"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="28" alt="Telegram" /></a>
+-->
 </p>
 
 ### 🧰 Tech Stack
@@ -51,44 +53,25 @@ Data Engineer / Data Analystic student at **UTC** 🟠🔵🟢
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" height="28" alt="Snowflake" />
 </p>
 
-<table width="100%">
-<tr>
-<td><h3>Featured Projects</h3></td>
-<td align="right"><a href="https://github.com/thelastsigma?tab=repositories">View all repositories →</a></td>
-</tr>
-</table>
+### 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><a href="https://github.com/thelastsigma/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thelastsigma&repo=REPO_1&theme=github_dark&hide_border=false&bg_color=0d1117" width="100%" alt="REPO_1" /></a></td>
-<td width="33%" valign="top"><a href="https://github.com/thelastsigma/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thelastsigma&repo=REPO_2&theme=github_dark&hide_border=false&bg_color=0d1117" width="100%" alt="REPO_2" /></a></td>
-<td width="33%" valign="top"><a href="https://github.com/thelastsigma/REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thelastsigma&repo=REPO_3&theme=github_dark&hide_border=false&bg_color=0d1117" width="100%" alt="REPO_3" /></a></td>
-</tr>
-</table>
+<a href="https://github.com/Phamtuankiet17?tab=repositories">View all repositories →</a>
 
-<table width="100%">
-<tr>
-<td><h3>My recent articles</h3></td>
-<td align="right"><a href="https://example.com">View all posts →</a></td>
-</tr>
-</table>
+<p>
+<a href="https://github.com/Phamtuankiet17/CPP---DSA---FINAL-PROJECT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Phamtuankiet17&repo=CPP---DSA---FINAL-PROJECT&theme=github_dark&bg_color=0d1117" width="32%" alt="CPP---DSA---FINAL-PROJECT" /></a>
+</p>
 
-<table width="100%">
-<tr><td>📄 <a href="https://example.com">How I started learning Data Engineering</a></td><td align="right"><sub>Oct 10, 2026</sub></td></tr>
-<tr><td>📄 <a href="https://example.com">Pointers and manual data structures in C</a></td><td align="right"><sub>Sep 20, 2026</sub></td></tr>
-<tr><td>📄 <a href="https://example.com">Building my first Flask app</a></td><td align="right"><sub>Aug 15, 2026</sub></td></tr>
-</table>
 
-### My GitHub contributions summary
+### 📊 My GitHub contributions summary
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="https://streak-stats.demolab.com/?user=thelastsigma&theme=github-dark-blue&hide_border=true&background=0D1117&card_width=420" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Phamtuankiet17&theme=github-dark-blue&hide_border=true&background=0D1117&card_width=420" alt="streak" />
 </td>
 <td width="50%" align="center" valign="middle">
 <sub>Contributions in the last year</sub><br />
-<img src="https://ghchart.rshah.org/39d353/thelastsigma" width="100%" alt="contributions" />
+<img src="https://ghchart.rshah.org/39d353/Phamtuankiet17" width="100%" alt="contributions" />
 </td>
 </tr>
 </table>
